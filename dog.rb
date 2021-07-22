@@ -6,5 +6,9 @@ class Dog
     def name
         @name
     end
+
+    def gav
+        puts "gav-gav"
+    end
         
 end
