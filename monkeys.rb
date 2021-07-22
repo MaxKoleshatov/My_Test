@@ -8,7 +8,7 @@ class Monkey
     end
 
     def check
-        puts 5
+        puts 10
     end
         
 end
